@@ -52,10 +52,9 @@ while True:
     print("Done sending")
     conn.close()
 ```
-
 ## OUPUT
-<img width="806" height="452" alt="image" src="https://github.com/user-attachments/assets/61d1fda1-0217-4874-80bc-ad50069b3f4b" />
-<img width="809" height="482" alt="image" src="https://github.com/user-attachments/assets/4a17cea5-6aa8-48a6-9619-8f889640410e" />
+<img width="802" height="450" alt="3c 1" src="https://github.com/user-attachments/assets/b1d8e3b1-b1fa-49b7-8206-ec6788a060cf" />
+<img width="809" height="482" alt="3c2" src="https://github.com/user-attachments/assets/65273ff2-3730-4bab-88cb-3340f05b201e" />
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
